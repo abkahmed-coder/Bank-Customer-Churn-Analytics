@@ -46,3 +46,13 @@ Additional calculated columns and measures were developed using DAX to support a
 - Age Group Classification
 - Balance Group Classification
 - Additional KPI and analytical measures for dashboard reporting
+
+- ## Interactive Features
+
+The dashboard includes dynamic filtering capabilities that allow users to explore churn patterns across different customer segments:
+
+- **Country Filter** – Analyze churn metrics for specific countries.
+- **Gender Filter** – Compare churn behavior between male and female customers.
+- **Number of Products Filter** – Investigate how product ownership impacts customer retention.
+
+These filters dynamically update all KPIs and visualizations, enabling deeper analysis of customer churn trends.
