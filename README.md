@@ -155,11 +155,6 @@ Conduct further analysis on customers holding four products to identify the fact
 
 ---
 
-## Dashboard Snapshot
-
-*Insert dashboard screenshot here.*
-
----
 
 ## Conclusion
 
