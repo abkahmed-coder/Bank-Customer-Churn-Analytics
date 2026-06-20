@@ -1,3 +1,14 @@
+# Bank Customer Churn Analytics Dashboard
+
+## Project Overview
+
+This project presents an interactive Power BI dashboard designed to analyze customer churn in a retail banking environment. The objective is to identify customer segments with a higher likelihood of leaving the bank and uncover the factors that contribute to churn.
+
+The dashboard combines customer demographic and account information to provide insights into churn behavior across multiple dimensions, including age, balance, tenure, product ownership, gender, and geography. Through interactive visualizations and KPI tracking, the analysis helps stakeholders understand customer retention challenges and identify opportunities to improve customer loyalty.
+
+The project demonstrates skills in data cleaning, data modeling, DAX calculations, data visualization, and business insight generation using Power BI.
+
+
 ## Dataset Information
 
 The dataset consists of two sheets containing customer demographic, financial, and account-related information used to analyze customer churn behavior.
